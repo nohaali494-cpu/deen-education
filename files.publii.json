@@ -1,0 +1,192 @@
+[
+    {
+        "path": "404.html",
+        "type": "file",
+        "md5": "cc5f1a40e3f6ef1619716fdefb16baf5"
+    },
+    {
+        "path": "assets",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "assets/css",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/css/editor.css",
+        "type": "file",
+        "md5": "4202808df745f2ac7ab250606fa0d272"
+    },
+    {
+        "path": "/assets/css/main.css",
+        "type": "file",
+        "md5": "fa238f48f9a2ab93b0c59a116e831bca"
+    },
+    {
+        "path": "/assets/css/style.css",
+        "type": "file",
+        "md5": "11bee19e86e8eda2cf9a60efd975666d"
+    },
+    {
+        "path": "assets/dynamic",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "assets/js",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/js/scripts.js",
+        "type": "file",
+        "md5": "e9e5c3efbaa696d1490988cf5b30e23b"
+    },
+    {
+        "path": "/assets/js/scripts.min.js",
+        "type": "file",
+        "md5": "700105c316933a8202041b6415abb233"
+    },
+    {
+        "path": "/assets/js/svg-fix.js",
+        "type": "file",
+        "md5": "9b7d020c55e2b4f77ab40c97f88f9ff4"
+    },
+    {
+        "path": "/assets/js/svg-map.js",
+        "type": "file",
+        "md5": "ff4392540fcf4c3d3f5e03806e112816"
+    },
+    {
+        "path": "assets/svg",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/svg/svg-map.svg",
+        "type": "file",
+        "md5": "cf04dfd5c3cc64e0be44692fe7d976a6"
+    },
+    {
+        "path": "authors",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "authors/myr",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/authors/myr/index.html",
+        "type": "file",
+        "md5": "36e4327763ac836da122f42378d19592"
+    },
+    {
+        "path": "feed.json",
+        "type": "file",
+        "md5": "70bfa766d999f7f78143b27642494094"
+    },
+    {
+        "path": "feed.xml",
+        "type": "file",
+        "md5": "6889bd74d7fc0448fa9bf7195c509677"
+    },
+    {
+        "path": "index.html",
+        "type": "file",
+        "md5": "62f974bbacac115ca59b9dc970e5cb37"
+    },
+    {
+        "path": "learn-quran-online-from-home-a-modern-path-to-spiritual-growth-and-accurate-recitation",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/learn-quran-online-from-home-a-modern-path-to-spiritual-growth-and-accurate-recitation/index.html",
+        "type": "file",
+        "md5": "1a9c7180a513b3e8eb54aa5728bac8f6"
+    },
+    {
+        "path": "learn-quran-online-from-home-your-complete-guide-to-mastering-quran-recitation-from-home",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/learn-quran-online-from-home-your-complete-guide-to-mastering-quran-recitation-from-home/index.html",
+        "type": "file",
+        "md5": "aad64c2f253c17f67bcdf614309a496a"
+    },
+    {
+        "path": "learn-quran-online-from-home-your-gateway-to-authentic-quranic-learning-in-a-modern-world",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/learn-quran-online-from-home-your-gateway-to-authentic-quranic-learning-in-a-modern-world/index.html",
+        "type": "file",
+        "md5": "4114a8fea9492fd741b62a63a2bb7ef6"
+    },
+    {
+        "path": "media",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/website",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/website/download-42.jfif",
+        "type": "file",
+        "md5": "e89dd29d2119f02223ed92e82d0e18e1"
+    },
+    {
+        "path": "quran-and-arabic-online-a-comprehensive-path-toward-true-islamic-learning",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/quran-and-arabic-online-a-comprehensive-path-toward-true-islamic-learning/index.html",
+        "type": "file",
+        "md5": "73db17d60c6f7b4f33c622297471e1aa"
+    },
+    {
+        "path": "quran-and-arabic-online-a-modern-path-to-mastering-faith-and-language",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/quran-and-arabic-online-a-modern-path-to-mastering-faith-and-language/index.html",
+        "type": "file",
+        "md5": "65c792a3d53d1adf2d6b41ced19a18c0"
+    },
+    {
+        "path": "robots.txt",
+        "type": "file",
+        "md5": "1f6bfe995249856518781dc08f0d59af"
+    },
+    {
+        "path": "sitemap.xml",
+        "type": "file",
+        "md5": "135984d21afa85684d85581ddab66088"
+    },
+    {
+        "path": "sitemap.xsl",
+        "type": "file",
+        "md5": "03c2f9a7fdcc46ff05c435907614a0b8"
+    },
+    {
+        "path": "tags",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/index.html",
+        "type": "file",
+        "md5": "b99cf6386004674a0019e18f9baac5fa"
+    }
+]
